@@ -1,4 +1,4 @@
-FROM redhat/ubi9
+FROM redhat/ubi9:9.7-1764794285
 
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
